@@ -2,6 +2,8 @@
 
 A Raspberry Pi Pico W project that displays real-time Rotterdam port information on an LCD screen.
 
+A simple project I wanted to do, I have a facination with real time data and visualising said data
+
 ## Features
 
 - **Real-Time Data**: Attempts to fetch live ship data from multiple maritime APIs
