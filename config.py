@@ -1,0 +1,4 @@
+# config.py - Configuration
+LCD_I2C_ADDRESS = 0x27
+BUTTON_PIN = 14
+ROTTERDAM_COORDS = (51.9225, 4.47917)
